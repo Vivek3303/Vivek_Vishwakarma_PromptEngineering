@@ -1,6 +1,8 @@
 # Prompt Engineering Portfolio
 Name: Vivek S. Vishwakarma
+
 Date: June 4, 2026
+
 LLM Used: Gemini Pro (Gemini 1.5 Pro architecture)
 
 ## Part 1: Prompt Design & Iteration
